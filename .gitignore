@@ -1,0 +1,6 @@
+composer.phar
+config.php
+credentials.json
+/vendor/
+/node_modules/
+/cache/
